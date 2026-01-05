@@ -1,30 +1,24 @@
-# SQL-Practice 🚀
+# Hey there! 👋
 
-Daily SQL practice as a student following **Apna College's SQL One Shot Course**.
+**Vaibhav Bhardwaj**  
+BCA (Data Science) Student | SRM IST Delhi NCR
 
-Video Link: https://www.youtube.com/watch?v=hlGoQC332VM
+## About Me
+- 🎓 1st Year BCA (Data Science) at SRM Institute of Science and Technology, Delhi NCR Campus
+- 📊 Passionate about Data Analysis, Databases & turning data into insights
+- 💻 Currently building strong foundations in SQL
+- 🔥 Focused on daily practice & consistent growth
 
-## Current Progress
-- ✅ Day 1: Basic table creation, INSERT, SELECT  
+## Current Progress (January 2026)
+- ✅ Day 1 (5 Jan): Basic table creation, INSERT, SELECT  
   File: [day1_employees.sql](day1_employees.sql)
 
-## Course Progress (till now)
-- Introduction to SQL
-- Database & Table basics
-- Installation of MySQL
-- Creating first database & table
-- SQL Datatypes
-- SELECT Command
-- INSERT Command ✅ (Completed)
-
 ## Next Topics
-- WHERE Clause & Operators
-- ORDER BY, LIMIT Clause
-- Aggregate Functions (COUNT, SUM, AVG)
-- GROUP BY, HAVING
-- UPDATE, DELETE Commands
-- JOINS, Sub Queries & more...
+- Day 2: WHERE Clause & Filtering
+- Day 3: ORDER BY & Sorting
+- Day 4: Aggregate Functions (COUNT, SUM, AVG)
+- Advanced SQL, Excel, Python (course subjects ahead)
 
-One topic per day – consistency over speed! 💪
+One small step every day. Building the future, one query at a time! 💪
 
-Started: January 2026
+Started: 5 January 2026
