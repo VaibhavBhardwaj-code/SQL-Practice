@@ -9,6 +9,9 @@ BCA (Data Science) Student | SRM IST Delhi NCR
 - 💻 Currently building strong foundations in SQL
 - 🔥 Focused on daily practice & consistent growth
 
+## Academic Highlight 🏆
+- First Semester CGPA: 8.10 / 10.00
+
 ## Current Progress (January 2026)
 - ✅ Day 1 (5 Jan): Basic table creation, INSERT, SELECT  
   File: [day1_employees.sql](day1_employees.sql)
@@ -17,8 +20,6 @@ BCA (Data Science) Student | SRM IST Delhi NCR
 - Day 2: WHERE Clause & Filtering
 - Day 3: ORDER BY & Sorting
 - Day 4: Aggregate Functions (COUNT, SUM, AVG)
-- Advanced SQL, Excel, Python (course subjects ahead)
+- Advanced SQL, Excel, Python ahead...
 
 One small step every day. Building the future, one query at a time! 💪
-
-Started: 5 January 2026
