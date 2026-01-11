@@ -1,3 +1,4 @@
+-- Day 2 (11 Jan 2026): WHERE Clause & Filtering Practice
 CREATE DATABASE practice_work;
 USE practice_work;
 
