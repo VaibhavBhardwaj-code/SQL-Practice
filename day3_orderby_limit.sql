@@ -21,32 +21,32 @@ INSERT IGNORE INTO employees VALUES
 (7, 'Rohan', 29, 68000, 'Bangalore', 'IT'),
 (8, 'Kavya', 26, 52000, 'Delhi', 'HR');
 
--- Question-1: Employees ko salary ke hisab se ascending order mein sort karo
+-- Question 1: Sort all employees by salary in ascending order (lowest to highest).
 SELECT * FROM employees ORDER BY salary ASC;
 
--- Question-2: Salary ke hisab se descending order mein sort karo.
-SELECT * FROM employees ORDER BY salary DESC; 
+-- Question 2: Sort employees by salary in descending order (highest to lowest).
+SELECT * FROM employees ORDER BY salary DESC;
 
--- QUESTION-3: Age ke hisab se sort karo.
+-- Question 3: Sort employees by age in ascending order (youngest to oldest).
 SELECT * FROM employees ORDER BY age ASC;
 
- -- Qustion-4: Department ke hisab se sort karo.
- SELECT * FROM employees ORDER BY department ASC;
- 
- -- Question-5: Top 3 highest salary wale employees dikhao.
- SELECT * FROM employees ORDER BY salary DESC LIMIT 3;
- 
- -- Qusetion-6: Bottom 3 lowest salary wale employees dikhao.
- SELECT * FROM employees ORDER BY salary ASC LIMIT 3;
- 
- -- Question-7: Delhi mein rehne wale employees ko salary ke hisab se descending order mein sort karo.
- SELECT * FROM employees WHERE city IN ('Delhi') ORDER BY salary DESC ;
- 
- -- Question-8: IT department wale employees ko age ke hisab se ascending order mein sort karo.
- SELECT * FROM employees WHERE department in ('IT') ORDER BY age ASC; 
- 
- -- Question-9: Top 5 oldest employees dikhao.
- SELECT * FROM employees ORDER BY age DESC LIMIT 5;
- 
- -- Question-10: Name ke alphabetical order mein saare employees sort karo (A to Z).
- SELECT * FROM employees ORDER BY name ASC;
+-- Question 4: Sort employees by department in alphabetical order.
+SELECT * FROM employees ORDER BY department ASC;
+
+-- Question 5: Show the top 3 employees with the highest salary.
+SELECT * FROM employees ORDER BY salary DESC LIMIT 3;
+
+-- Question 6: Show the bottom 3 employees with the lowest salary.
+SELECT * FROM employees ORDER BY salary ASC LIMIT 3;
+
+-- Question 7: Sort employees living in Delhi by salary in descending order.
+SELECT * FROM employees WHERE city = 'Delhi' ORDER BY salary DESC;
+
+-- Question 8: Sort employees in the IT department by age in ascending order.
+SELECT * FROM employees WHERE department = 'IT' ORDER BY age ASC;
+
+-- Question 9: Show the top 5 oldest employees.
+SELECT * FROM employees ORDER BY age DESC LIMIT 5;
+
+-- Question 10: Sort all employees by name in alphabetical order (A to Z).
+SELECT * FROM employees ORDER BY name ASC;
