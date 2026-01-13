@@ -13,8 +13,8 @@ BCA (Data Science) Student | SRM IST Delhi NCR
 - First Semester CGPA: 8.10 / 10.00
 
 ## Current Progress (January 2026)
-- ✅ Day 2 (11 Jan): WHERE Clause & Filtering (15 questions)  
-  File: [day2_where.sql](day2_where.sql)
+- ✅ Day 3 (12 Jan): ORDER BY, LIMIT, ASC/DESC (10 questions solved)  
+  File: [day3_orderby_limit.sql](day3_orderby_limit.sql)
 
 ## Next Topics
 - Day 2: WHERE Clause & Filtering
