@@ -65,3 +65,5 @@ SELECT * FROM employees WHERE name LIKE 'R%' AND salary > 60000;
 
 -- Question 15: Employees with age between 25 and 30 AND living in 'Delhi' or 'Pune'.
 SELECT * FROM employees WHERE age BETWEEN 25 AND 30 AND city IN ('Delhi', 'Pune');
+
+-- End of Day 2 practice
