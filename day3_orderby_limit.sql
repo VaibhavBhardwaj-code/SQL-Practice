@@ -50,3 +50,5 @@ SELECT * FROM employees ORDER BY age DESC LIMIT 5;
 
 -- Question 10: Sort all employees by name in alphabetical order (A to Z).
 SELECT * FROM employees ORDER BY name ASC;
+
+-- End of Day 3 practice
